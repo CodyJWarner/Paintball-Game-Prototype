@@ -23,7 +23,8 @@ Players can pick up health and temporary shield boosts placed around the arena t
 | Mouse | Aim |
 | Left Click | Fire |
 | Space | Jump |
-| Left Ctrl | Crouch |
+| Left Shift | Sprint |
+| Tab | Scoreboard |
 
 ---
 
