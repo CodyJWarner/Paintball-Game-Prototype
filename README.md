@@ -1,7 +1,7 @@
 # Paintball-Game-Prototype
 <p align='center'> <img src="https://github.com/user-attachments/assets/14f0f8a9-034a-4dc2-aefa-8c70274e5827"> </p>
 This was my first attempt at making a game. It is a small arena-style shooter prototype built in Unreal Engine 5.  
-Players navigate a paintball arena and fire projectile-based paintballs with physics-driven splatter effects.
+Players navigate a paintball arena and fire projectile-based paintballs.
 For this project I focused on developing basic combat mechanics in a contained arena environment where the user controlled and AI-controlled players battle each other using projectile-based paintball weapons.
 Players can pick up health and temporary shield boosts placed around the arena to survive longer engagements and to promote moving around.
 <br>
